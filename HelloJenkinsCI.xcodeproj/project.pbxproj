@@ -208,7 +208,7 @@
 				ORGANIZATIONNAME = Jenkins;
 				TargetAttributes = {
 					A6A2048818BE4727001E8CD5 = {
-						DevelopmentTeam = 7G8TKQ2H9Q;
+						DevelopmentTeam = FQVYFHX4E5;
 					};
 					A6A204AF18BE4728001E8CD5 = {
 						TestTargetID = A6A2048818BE4727001E8CD5;
