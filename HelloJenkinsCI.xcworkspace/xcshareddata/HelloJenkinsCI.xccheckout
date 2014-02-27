@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>81629D43-8D12-491B-B4DF-D7948B44406E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloJenkinsCI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>57628B7C-C67F-4C5A-A46A-4EE05CB6788B</key>
+		<string>ssh://github.com/SrideviTadimeti/HelloJenkinsCI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloJenkinsCI.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>57628B7C-C67F-4C5A-A46A-4EE05CB6788B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/SrideviTadimeti/HelloJenkinsCI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>57628B7C-C67F-4C5A-A46A-4EE05CB6788B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>57628B7C-C67F-4C5A-A46A-4EE05CB6788B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HelloJenkinsCI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
