@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-//test checkin -123456
+//test checkin
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
