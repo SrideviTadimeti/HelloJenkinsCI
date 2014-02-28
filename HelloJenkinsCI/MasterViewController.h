@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@class DetailViewController
+@class DetailViewController;
 
 @interface MasterViewController : UITableViewController
 
